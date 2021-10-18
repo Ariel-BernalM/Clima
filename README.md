@@ -7,3 +7,8 @@ Consiste en una app que te indica el clima en la ciudad y pais que elegiste
 en comandos usar: npm install
 y luego :         npm start
 
+
+
+### Tecnologia utilizada
+REACT
+API
