@@ -9,7 +9,7 @@ y luego :         npm start
 
 
 
-### Tecnologia utilizada
+### Tecnologias utilizadas
 REACT
 
 API
